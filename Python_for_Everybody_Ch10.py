@@ -41,7 +41,7 @@
 #    print(key,val)
 
 
-#Exercise 3, page 135
+#Exercise 3, page 135   (write a program that reads a file and prints the letters in decreasing order......
 import string
 fil = open('words.txt','r')
 lis = []
